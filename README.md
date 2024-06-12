@@ -1,4 +1,4 @@
-# Project Netflix
+# Netflix EDA using Python
 
 Welcome to Project Netflix! This project analyzes Netflix's vast collection of Movies and TV shows, providing insights into various aspects of the data, including show details, genres, and actor appearances.
 
@@ -18,7 +18,7 @@ Welcome to Project Netflix! This project analyzes Netflix's vast collection of M
 
 ## Overview
 
-The Project Netflix aims to analyze and visualize data related to Netflix TV shows. This includes exploring show details, genres, and actors to provide meaningful insights and visual representations.
+The Project Netflix aims to analyze and visualize data related to Netflix Movies and TV shows. This includes exploring show details, genres, and actors to provide meaningful insights and visual representations.
 
 ## Dataset
 
