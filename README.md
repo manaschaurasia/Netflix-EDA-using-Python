@@ -13,8 +13,6 @@ Welcome to Project Netflix! This project analyzes Netflix's vast collection of M
   - [Genres](#genres)
   - [Cast Analysis](#cast-analysis)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
